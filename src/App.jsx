@@ -24,7 +24,7 @@ function App() {
       const data = await response.json();
       setTasks(data);
     };
-    //descomentar para chamar api
+    //uncomment to call api
     //fetchTasks();
   }, []);
 

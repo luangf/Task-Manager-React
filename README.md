@@ -1,5 +1,4 @@
 # React Project
 
-Node, NPM, Vite, React, HTML, CSS, JS, Tailwind, Lucide
-LocalStorage
-JSONPlaceholder API
+# Technologies...
+React, Tailwind, Node, NPM, Vite, HTML, CSS, JS, Lucide, LocalStorage, JSONPlaceholder API
