@@ -1,6 +1,8 @@
-# React Project
+# Task Manager - To-Do List with React
 
-https://task-manager-react-eta.vercel.app/
+* Deploy: https://task-manager-react-eta.vercel.app/
 
-# Technologies...
-React, Tailwind, Node, NPM, Vite, HTML, CSS, JS, Lucide, LocalStorage, JSONPlaceholder API
+## Technologies:
+* React, Tailwind, Node, NPM, Vite, HTML, CSS, JS, Lucide, LocalStorage, JSONPlaceholder API
+
+## Demonstrative Images:
