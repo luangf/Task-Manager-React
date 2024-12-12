@@ -2,6 +2,8 @@
 
 * Deploy: https://task-manager-react-eta.vercel.app/
 
+* Project I carried out for learning with the help of a tutorial by Felipe Rocha • Full Stack Club.
+
 ## Technologies:
 * React, Tailwind, Node, NPM, Vite, HTML, CSS, JS, Lucide, LocalStorage, JSONPlaceholder API
 
